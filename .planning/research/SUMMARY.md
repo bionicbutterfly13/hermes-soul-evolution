@@ -44,4 +44,3 @@ Use standard-library unittest for concrete fixture behavior, including failure c
 ## Unknowns retained
 
 The scheduler's exact startup cause, current agent-level continuity and a successful specialist acceptance trial remain unverified. Initial behavior selection is in progress. Quill dispatch is blocked by access to its actual workflow. No comparative model test or Colab run is claimed.
-

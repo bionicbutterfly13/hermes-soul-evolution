@@ -31,4 +31,3 @@ Colab may host synthetic fixtures or analysis and a separately configured API co
 ## Initial SOUL review
 
 Review [Claudia's inspected seed](https://github.com/kbanc85/claudia-autonomous/blob/177236207991ed7ccec6de16a9458ecdcf9c1b3f/claudia_cli/default_soul.py) first, then selectively use Felix ownership/follow-through practices. Examine adaptation to pace, commitments, corrections and stable stance. Do not adopt unsupported experiential claims, unverified 24/7 operation or repeated approval demands that conflict with the requested executive autonomy. No active SOUL edit is part of this source packet.
-

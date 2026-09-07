@@ -71,4 +71,3 @@ At phase transitions, move verified requirements into Validated, record changed 
 
 ---
 *Last updated: 2026-09-07 after approved public project and issue-stream setup.*
-
