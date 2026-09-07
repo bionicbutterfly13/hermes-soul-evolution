@@ -41,6 +41,8 @@ Foreground work reviews Claudia first, selectively learns Felix's ownership and 
 
 The corrected comparison is Hermes using GPT-6 Astra, Codex desktop, and Codex CLI running inside Warp. Warp's native agent is excluded. No matched comparison has run.
 
+Dr. Mani selected the exact Claudia section-by-section article title: "how to create a decisive hermes agent operator that carries context and commitments forward". Second Mind's decision-as-object architecture, Assaf Magen's The Personal AI Operating System and two Tiago Forte videos are pending research comparisons, not adopted design changes.
+
 ## Constraints
 
 - **Authorship:** Quill alone drafts and revises blogs. Its actual dispatch path is blocked by an exact-root access boundary in the current session; do not substitute another writer.
@@ -64,6 +66,7 @@ The corrected comparison is Hermes using GPT-6 Astra, Codex desktop, and Codex C
 | D-08 | Compare Hermes, Codex desktop and Codex CLI inside Warp | User corrected the third condition | Settled; comparison unrun |
 | D-09 | Keep facts, interpretation, historical evidence and proposals separate | Trustworthy public record | Settled |
 | D-10 | Preserve private data and machine-specific details outside public Git | Repository is public | Settled |
+| D-11 | Preserve the exact selected Claudia article title | User selected wording; Quill owns prose | Settled |
 
 ## Evolution
 

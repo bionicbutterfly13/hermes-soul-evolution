@@ -5,14 +5,14 @@
 See: .planning/PROJECT.md (updated 2026-09-07)
 
 **Core value:** An executive operator with observable initiative, verified follow-through and continuity across sessions.
-**Current focus:** Planning the six F02-F07 issue streams; F07 initial personality review remains independently available.
+**Current focus:** F07 initial personality review in the foreground; six checked feature-plan branches are available in docs/features-index.md.
 
 ## Current Position
 
-Phase: 1 of 6 (F02 Scheduler startup evidence; planning index, not a runtime prerequisite for F07)
-Plan: 0 of TBD in current phase
-Status: Ready to plan
-Last activity: 2026-09-07 - Created the six-phase roadmap and mapped all 21 requirements.
+Phase: 6 of 6 (F07 initial personality review; shared project catalog)
+Plan: 0 of 3 in the F07 feature branch
+Status: Ready to execute in the selected feature worktree; execution remains pending
+Last activity: 2026-09-07 - Pushed 14 checked plans across six feature branches; all 21 requirements remain unexecuted.
 
 Progress: [░░░░░░░░░░] 0%
 
@@ -49,7 +49,7 @@ Full decisions: .planning/PROJECT.md Key Decisions table.
 
 ### Pending Todos
 
-- Plan the six phases and verify each plan against its requirements and evidence limits.
+- Select the next authorized feature execution from docs/features-index.md; planning and checks are complete in the six linked worktrees.
 - Complete initial behavior selection; preserve unresolved choices until Dr. Mani decides.
 - Prepare verified example evidence and Quill source packets as later work is authorized.
 
@@ -72,5 +72,5 @@ Full decisions: .planning/PROJECT.md Key Decisions table.
 ## Session Continuity
 
 Last session: 2026-09-07
-Stopped at: Roadmap and requirement traceability prepared for review; no phase execution started.
+Stopped at: Six feature branches pushed with checked plans; no phase execution started. Main is the catalog, and each feature branch owns its plan files.
 Resume file: None
