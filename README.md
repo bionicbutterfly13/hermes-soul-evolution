@@ -8,6 +8,7 @@ Public research and experiment record for Dr. Mani's Hermes Chief of Staff.
 
 - [Baseline 001](docs/baseline-001.md): research references, seven audit findings, evidence limits and proposed acceptance checks.
 - [Series plan](docs/series-plan.md): motivation, research, decisions and one issue-specific post per finding F02-F07.
+- [Feature planning index](docs/features-index.md): six pushed feature branches, 14 GSD plans, validation evidence and execution boundaries.
 
 ## Current stage
 
